@@ -31,9 +31,6 @@ header {
 }
 
 header img {
-    margin-top: 5px;
-    margin-right: 10px;
-    margin-bottom: 20px;
     float: right;
     max-width: 150px;
     height: auto;
@@ -44,5 +41,5 @@ h2::after {
     border:1px solid black;
 }
 body {
-    font: 18px Arial
+    font: 18px Arial;
 }

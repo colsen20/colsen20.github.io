@@ -5,6 +5,11 @@ body {
     font-size: 14px;
 }
 
+header,
+footer {
+    background-color: #627EA7;
+}
+
 .grid {
     display: grid;
     grid-template-columns: 1fr;

@@ -8,6 +8,9 @@ body {
 header,
 footer {
     background-color: #627EA7;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
 }
 
 .grid {

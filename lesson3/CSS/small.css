@@ -5,6 +5,10 @@ body {
     font-size: 14px;
 }
 
+h2 {
+    text-align: center;
+}
+
 header,
 footer {
     background-color: #627EA7;
@@ -20,7 +24,7 @@ footer {
 nav {
 	background-color: #242f40;
 	text-align: center;
-	box-shadow: 0 2px 15px gray;
+    box-shadow: 0 2px 15px gray;
 }
 
 nav ul li a {
@@ -38,5 +42,15 @@ nav ul {
     padding: 0;
     overflow: hidden;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+}
+
+nav a:hover {
+	background-color: #ffffff;
+	color: #101010;
+}
+
+.logo {
+    width: 75%;
+    height: auto;
+
 }

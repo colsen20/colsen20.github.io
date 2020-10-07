@@ -24,7 +24,7 @@ footer {
 nav {
 	background-color: #242f40;
 	text-align: center;
-    box-shadow: 0 2px 15px gray;
+    box-shadow: 0 2px 15px #627ea7;
 }
 
 nav ul li a {

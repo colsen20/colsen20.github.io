@@ -3,11 +3,6 @@
 .grid {
     grid-template-columns: 1fr 1fr;
   }
-  nav ul {
-    display: flex;
-  }
-  nav li {
-    display: inline-block;
-  }
+
 
 }

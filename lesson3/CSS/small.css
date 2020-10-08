@@ -22,6 +22,11 @@ footer {
     grid-template-columns: 1fr;
     gap: 10px;
 }
+.persona_grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
 nav {
 	background-color: #242f40;
 	text-align: center;
@@ -54,4 +59,10 @@ nav a:hover {
     width: 75%;
     height: auto;
 
+}
+
+.benji {
+    width: 75%;
+    height: auto;
+    padding-left: 110px;
 }

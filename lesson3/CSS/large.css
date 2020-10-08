@@ -3,5 +3,11 @@
 .grid {
     grid-template-columns: 1fr 1fr 1fr;
 }
-
+.persona_grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .benji {
+    width: 75%;
+    padding-left: 110px;
+}
 }

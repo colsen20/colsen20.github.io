@@ -6,6 +6,10 @@
   .persona_grid {
     grid-template-columns: 1fr 1fr;
   }
+  .benji {
+    width: 75%;
+    height: auto;
+}
 nav ul {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }

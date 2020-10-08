@@ -62,7 +62,10 @@ nav a:hover {
 }
 
 .benji {
-    width: 75%;
+    width: 100%;
     height: auto;
-    padding-left: 110px;
+    padding-left: 0px;
 }
+.persona_grid {
+    grid-template-columns: 1fr;
+  }
